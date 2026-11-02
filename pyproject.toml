@@ -21,7 +21,6 @@ classifiers = [
   "Programming Language :: Python :: Implementation :: CPython",
   "Topic :: Internet :: WWW/HTTP :: Dynamic Content",
   "Topic :: Software Development :: Libraries :: Python Modules",
-  "Framework :: Pboot",
 ]
 dependencies = [
   "pboot>=3.2.0",
